@@ -1,4 +1,26 @@
-# Auroproces
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Auroproces&fontSize=72&fontAlign=50&fontAlignY=30&animation=twinkling" />
+</p>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=5865F2&center=true&width=650&lines=Analisis+operativo+de+procesos+de+clientes;KPIs+de+tiempo%2C+calidad+y+SLA;Visualizacion+de+hallazgos+de+negocio" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/estado-analisis_en_desarrollo-yellow" />
+<img src="https://img.shields.io/badge/tecnologia-Python-blue" />
+<img src="https://img.shields.io/badge/dataset-Excel-success" />
+<img src="https://img.shields.io/badge/enfoque-operaciones%20y%20clientes-important" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Altair-1F77B4?style=for-the-badge&logo=vega&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+## Auroproces
 
 Análisis operativo de procesos de clientes orientado a identificar cuellos de botella, reprocesos, riesgos de incumplimiento de SLA y oportunidades de mejora en la experiencia del cliente.
 
@@ -63,3 +85,7 @@ Al ejecutar el script se producen archivos HTML interactivos en `outputs/` con l
 ## Uso profesional del proyecto
 
 Este repositorio está enfocado en mostrar capacidad de análisis de datos, limpieza, generación de KPIs y comunicación de hallazgos de negocio de forma clara y reproducible.
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
